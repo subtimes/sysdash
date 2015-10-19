@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hosts>
+	<host>
+		<name>DL980-1</name>
+		<ip>192.168.40.168</ip>
+		<user>administrator</user>
+		<password>admin12345</password>
+	</host>
+	<host>
+		<name>DL380</name>
+		<ip>192.168.40.158</ip>
+		<user>administrator</user>
+		<password>admin12345</password>
+	</host>
+</hosts>
